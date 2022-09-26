@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Andrew-20
+- 👀 I’m interested in computer science and web development 
+- 🌱 I’m currently learning android development and front end web development
